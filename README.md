@@ -12,6 +12,7 @@ c. modeling
 <br>
 d. Evaluasi.
 <br>
+
 # Hasil 
 <br>
 A. Insight
