@@ -11,8 +11,8 @@ b. preprocesing data
 c. modeling
 <br>
 d. Evaluasi.
-<br>
 # Hasil 
+<br>
 A. Insight
 <br>
 B. Rekomendasi strategis (opsional)
